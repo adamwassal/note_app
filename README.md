@@ -1,3 +1,4 @@
 # note_app
 
-![flutter](https://github.com/user-attachments/assets/754e13fc-93e9-4ec6-bfd0-11c22348091a)
+**onboarding screen**
+![Screenshot from 2025-06-03 15-08-09](https://github.com/user-attachments/assets/7c1ce842-bd79-413b-b6c6-b7f666409659)
