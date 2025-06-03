@@ -1,4 +1,5 @@
-# note_app
+# note_app [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
 
 **Onboarding screen**
 <br>
