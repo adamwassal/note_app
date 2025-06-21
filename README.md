@@ -59,7 +59,7 @@ Includes features such as authentication, user profiles, and secure password man
 - 🗃️ Add, Edit & Delete Notes
 - 👥 User Profile Management
 - 🛡️ Change Password functionality
-- ☁️ Firebase Integration *(optional if used)*
+- ☁️ Firebase Integration
 
 ---
 
